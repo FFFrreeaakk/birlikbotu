@@ -1,0 +1,5 @@
+{
+    "token": "OTg0OTg4ODE5NDA3NDA1MDg2.GelfHO.zeEN-e21M_kX44KTkMteT4_4Btw7r6VuJC8gyo",
+    "prefix": "!",
+    "mongooseConnectionString": "mongodb+srv://freakuptime:be20072012@cluster0.svufxsa.mongodb.net/uptimefreak?retryWrites=true&w=majority"
+}
